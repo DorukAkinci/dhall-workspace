@@ -1,0 +1,1 @@
+let Concourse = ./Concourse.dhall in { Type = Concourse, default = {=} }

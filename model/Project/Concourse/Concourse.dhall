@@ -1,0 +1,4 @@
+{
+    , domain : Text
+    , password : Text
+}
