@@ -12,4 +12,4 @@ in Project::{
             , url = "www.google.com" ++ "/test"
             , environment = Environment.Prod
         }
-    } // prepareTestFunction "test" 2
+    } // prepareTestFunction "test" 2 // ./function_as_another_file.dhall "TESTFUNC_ARG1"
